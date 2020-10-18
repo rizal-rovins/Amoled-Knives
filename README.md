@@ -2,10 +2,10 @@
 
 Credits for the models to:
 
-1. kattsepesh@sketchfab.com <br/>
-https://sketchfab.com/kattsepesh
-https://skfb.ly/6AR6z
+1. kattsepesh @ sketchfab <br/>
+https://sketchfab.com/kattsepesh <br/>
+https://skfb.ly/6AR6z <br/>
 
-2. ok3z@sketchfab.com
-https://sketchfab.com/ok3z
-https://skfb.ly/6APMF
+2. ok3z @ sketchfab <br/>
+https://sketchfab.com/ok3z <br/>
+https://skfb.ly/6APMF <br/>
